@@ -1,6 +1,6 @@
 class Dropdown {
   constructor(element) {
-    
+    //
     // Assign this.element to the dropdown element
     this.element;
     
